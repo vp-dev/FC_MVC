@@ -7,6 +7,7 @@ return array(
     'admin/category' => 'admin/category',
     'admin/users' => 'admin/users',
     'admin' => 'admin/index',
+    'news' => 'news/index',
     'cabinet' => 'cabinet/index',
     'logout' => 'user/logout',
     'login' => 'user/login',

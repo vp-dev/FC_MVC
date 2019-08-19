@@ -101,6 +101,7 @@
                             <li><a href="/blog">Блог</a></li>
                             <li><a href="/about">О магазине</a></li>
                             <li><a href="/contacts">Контакты</a></li>
+                            <li><a href="/news">Новости</a></li>
                         </ul>
                     </div>
                 </div>
