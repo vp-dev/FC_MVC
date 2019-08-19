@@ -1,7 +1,6 @@
 <?php
 //FRONT CONTROLLER + MVC
 
-//ОБЩИЕ НАСТРОЙКИ
 //отображения ошибок на время написания сайта
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
@@ -27,3 +26,4 @@ function myAutoloader($className)
 //старт роутинга
 $router = new Router();
 $router->run();
+
